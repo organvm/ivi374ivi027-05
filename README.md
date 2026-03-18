@@ -100,3 +100,11 @@ Recommended required status checks on `main`:
 - Launch QA + rollback checklist: `docs/launch-qa.md`
 
 All thesis artifacts are mirrored under `public/mirror` and exposed at `/mirror/**`.
+
+<!-- SYSTEM-NAV-START -->
+
+---
+
+<sub>[Portfolio](https://4444j99.github.io/portfolio/) · [System Directory](https://4444j99.github.io/portfolio/directory/) · [ORGAN II · Poiesis](https://organvm-ii-poiesis.github.io/) · Part of the <a href="https://4444j99.github.io/portfolio/directory/">ORGANVM eight-organ system</a></sub>
+
+<!-- SYSTEM-NAV-END -->
