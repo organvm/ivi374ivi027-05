@@ -1,8 +1,30 @@
 schema_version: '1.0'
 repo: ivi374ivi027-05
 organ: II
-display_name: "MET4MORFOSES Web Edition \u2014 Digital representation of MFA thesis\
-  \ as immersive multi-mode web experience (Next.js + Playwright)"
+display_name: "MET4MORFOSES Web Edition — Digital MFA thesis as immersive multi-mode web experience"
+
 delivery:
 - platform: web_app
+  status: in_progress
+  priority: critical
+  notes: "Next.js + Playwright immersive reading experience"
+  next_action: "Complete interactive modes and deploy to production"
+
+content:
+- platform: portfolio
+  status: in_progress
+  priority: critical
+  notes: "Digital representation of MFA thesis as interactive art"
+  next_action: "Finalize all thesis sections in web format"
+- platform: academic_writing
+  status: live
+  priority: high
+  notes: "MFA thesis documentation and critical apparatus"
+  next_action: "Link digital edition to academic references"
+
+marketing:
+- platform: social_organic
   status: not_started
+  priority: medium
+  notes: "Share immersive thesis experience on art/academic channels"
+  next_action: "Create launch announcement for academic/art communities"
